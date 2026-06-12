@@ -3,6 +3,8 @@ using System.Numerics;
 
 namespace FibonacciApp
 {
+    // FibonacciApp
+    // Generates the Fibonacci sequence
     class Program
     {
         static void Main(string[] args)
