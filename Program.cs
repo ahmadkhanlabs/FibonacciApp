@@ -38,6 +38,7 @@ namespace FibonacciApp
                 Console.WriteLine($"\nN = {i}");
                 Console.WriteLine("Max = " + Fibonacci.GetMax(seq));
                 Console.WriteLine("Iterations = " + Fibonacci.GetIterations(seq));
+                Console.WriteLine("Done generating Fibonacci sequence.");
             }
         }
     }
